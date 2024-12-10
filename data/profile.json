@@ -1,13 +1,9 @@
 {
-  "nome": "Venilton FalvoJr",
-  "titulo": "Education Tech Lead na DIO",
-  "localidade": {
-    "cidade": "Araraquara",
-    "estado": "São Paulo",
-    "pais": "Brasil"
-  },
-  "telefone": "(16) 99721-8281",
-  "email": "venilton@dio.me",
+  "name": "Leonardo H Saturnino",
+  "job": "Junior Developer",
+  "location": "Bariri-SP",
+  "phone": "(1a) 99847-2307",
+  "email": "leosatcode@gmail.com",
   "skills": {
     "hardSkills": [
       {
