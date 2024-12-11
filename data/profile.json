@@ -98,12 +98,12 @@
   "portfolio": [
     {
       "name": "Desenvolvendo um jogo 2D com JavaScript",
-      "gitHub": "https://github.com/LeoSatCode/Game",
+      "url": "https://github.com/LeoSatCode/Game",
       "git": "true"
     },
     {
       "name": "Minha Pokedex",
-      "gitHub": "https://github.com/LeoSatCode/POKEDEX",
+      "url": "https://github.com/LeoSatCode/POKEDEX",
       "git": "true"
     }
   ],
