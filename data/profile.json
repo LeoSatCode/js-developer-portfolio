@@ -35,10 +35,10 @@
     "Inglês (Avançado)",
     "Espanhol (Básico)"
   ],
-  "educacao": [
+  "education": [
     {
-      "nome": "dio.me",
-      "descricao": "Aprendizado contínuo na maior plataforma de educação aberta da América Latina.",
+      "name": "dio.me",
+      "logo": "https://assets.dio.me/_ImeVq2qMIfyFkoYC-epZ9o-1X9soGtq69WUykqhiL4/f:webp/h:120/q:80/L3RyYWNrcy81NWU3MDQwZi03NzViLTQ3ZTUtYThmYi02OWQwMDJjYTE3YTkucG5n",
       "instituicao": "Digital Innovation One (DIO)",
       "periodo": {
         "inicio": "2019",
