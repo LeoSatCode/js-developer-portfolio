@@ -116,7 +116,12 @@
     {
       "name": "Curso de Desenvolvimento Front-End pela DIO",
       "period": "Out 2024 - Dez 2024",
-      "description": "Curso abrangendo HTML, CSS e JavaScript, ."
+      "description": "Curso abrangendo HTML, CSS e JavaScript, com grande foco em consumo de API's."
+    },
+    {
+      "name": "Desevolvimento de Meu Portfolio Pessoal",
+      "period": "Nov 2024 - Dez 2024",
+      "description": "Desenvolvido em conjunto com a DIO, esse portfolio possui toques pessoais para melhor experiência ao usuário."
     },
     {
       "name": "Jogo 2D com JavaScript",
