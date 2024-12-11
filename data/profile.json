@@ -35,6 +35,18 @@
     "Inglês (Avançado)",
     "Espanhol (Básico)"
   ],
+  "portfolio": [
+    {
+      "name": "Desenvolvendo um jogo 2D com JavaScript",
+      "url": "https://github.com/LeoSatCode/Game",
+      "git": true
+    },
+    {
+      "name": "Minha Pokedex",
+      "url": "https://github.com/LeoSatCode/POKEDEX",
+      "git": true
+    }
+  ],
   "education": {
     "achievs": [
       {
