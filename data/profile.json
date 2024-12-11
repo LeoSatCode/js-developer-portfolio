@@ -99,12 +99,12 @@
     {
       "name": "Desenvolvendo um jogo 2D com JavaScript",
       "url": "https://github.com/LeoSatCode/Game",
-      "git": "true"
+      "git": true
     },
     {
       "name": "Minha Pokedex",
       "url": "https://github.com/LeoSatCode/POKEDEX",
-      "git": "true"
+      "git": true
     }
   ],
   "experiencias": [
